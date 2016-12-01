@@ -3,7 +3,9 @@ node_js:
   - "0.10"
   - "0.12"
   - "4"
+  - "5"
   - "6"
+  - "7"
   - "node"
 sudo: false
 # download test suite and run tests... submodule? meta testing project with
